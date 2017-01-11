@@ -1,4 +1,4 @@
-# _A Fantastical Adventure _
+# _A Fantastical Adventure_
 
 #### _Practice project utilizing jQuery and HTML forms , 01.11.2017_
 
